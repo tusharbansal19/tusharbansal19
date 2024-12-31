@@ -2,24 +2,28 @@
 <h3 align="center">A passionate MERN Developer ( Devops )</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&" alt="tusharbansal19" /></p>
-
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharbansal19&show_icons=true&locale=en&layout=compact" alt="tusharbansal19" /></p>
-<p align="right">
-<a href="https://twitter.com/tusharbansal" target="blank"><img src="https://img.shields.io/twitter/follow/tusharbansal?logo=twitter&style=for-the-badge" alt="tusharbansal" /></a>
-</p>
-
-
-<p align="left">
-  
-- 🔭 I’m currently working on [Task Management project](https://github.com/tusharbansal19/Task-Management-Dashboard)
+<p>
+  <span>
+    🔭 I’m currently working on [Task Management project]
+    (https://github.com/tusharbansal19/Task-Management-Dashboard)
 
 - 🌱 I’m currently learning **MERN and ML**
 
 - 👯 I’m looking to collaborate on **socket and ml project**
 
-- 👨‍💻 All of my projects are available at [https://tushar-bansal-portfolio.vercel.app/](https://tushar-bansal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at
+-  [https://tushar-bansal-portfolio.vercel.app/](https://tushar-bansal-portfolio.vercel.app/)
 
-- 💬 Ask me about **React.js ,CSS, C++, Python, Java, JS, Node.js , SQL, etc.**
+
+ </span>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharbansal19&show_icons=true&locale=en&layout=compact" alt="tusharbansal19" /></p>
+<p align="right">
+<a href="https://twitter.com/tusharbansal" target="blank"><img src="https://img.shields.io/twitter/follow/tusharbansal?logo=twitter&style=for-the-badge" alt="tusharbansal" /></a>
+</p>
+</p>
+
+<p align="left">
+  - 💬 Ask me about **React.js ,CSS, C++, Python, Java, JS, Node.js , SQL, etc.**
 
 - 📫 How to reach me **tusharbansal3366@gmail.com**
 
@@ -28,6 +32,7 @@
 - ⚡ Fun fact **same technology creating different Porjects**
 
 
+ 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
