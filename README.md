@@ -3,9 +3,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&" alt="tusharbansal19" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharbansal19&show_icons=true&locale=en&layout=compact" alt="tusharbansal19" /><a href="https://twitter.com/tusharbansal" target="blank"><img src="https://img.shields.io/twitter/follow/tusharbansal?logo=twitter&style=for-the-badge" alt="tusharbansal" /></a></p>
-<p align="right">  </p>
-
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharbansal19&show_icons=true&locale=en&layout=compact" alt="tusharbansal19" /></p>
+<p align="right">
+<a href="https://twitter.com/tusharbansal" target="blank"><img src="https://img.shields.io/twitter/follow/tusharbansal?logo=twitter&style=for-the-badge" alt="tusharbansal" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tusharbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharbansal" height="30" width="40" /></a>
