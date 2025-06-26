@@ -1,53 +1,223 @@
-<h1 align="center">Hi 👋, I'm Tushar Bansal</h1>
-<h3 align="center">A passionate MERN Developer ( Devops )</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&" alt="tusharbansal19" /></p>
-<p>
-  <span>
-    🔭 I’m currently working on [Task Management project]
-    (https://github.com/tusharbansal19/Task-Management-Dashboard)
+# 💫 Tushar Bansal - MERN Stack Developer & DevOps Engineer
 
-- 🌱 I’m currently learning **MERN and ML**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Tushar+Bansal+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;DevOps+%7C+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
-- 👯 I’m looking to collaborate on **socket and ml project**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-- 👨‍💻 All of my projects are available at
--  [https://tushar-bansal-portfolio.vercel.app/](https://tushar-bansal-portfolio.vercel.app/)
+## 🎯 About Me
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
- </span>
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharbansal19&show_icons=true&locale=en&layout=compact" alt="tusharbansal19" /></p>
-<p align="right">
-<a href="https://twitter.com/tusharbansal" target="blank"><img src="https://img.shields.io/twitter/follow/tusharbansal?logo=twitter&style=for-the-badge" alt="tusharbansal" /></a>
-</p>
-</p>
+```javascript
+const tusharBansal = {
+    pronouns: "He/Him",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "Machine Learning", "DevOps"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Redux"],
+            css: ["Tailwind", "Bootstrap", "Sass"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django", "Flask"],
+            database: ["MongoDB", "MySQL", "PostgreSQL"]
+        },
+        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        machineLearning: ["TensorFlow", "Scikit-learn", "Pandas"],
+        tools: ["Git", "Figma", "Postman", "VS Code"]
+    },
+    currentFocus: "Building Full Stack Applications with ML Integration",
+    funFact: "Same technology, infinite possibilities! 🚀"
+};
+```
 
-<p align="left">
-  - 💬 Ask me about **React.js ,CSS, C++, Python, Java, JS, Node.js , SQL, etc.**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-- 📫 How to reach me **tusharbansal3366@gmail.com**
+## 🚀 What I'm Up To
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JUveiS-gIBWekzCUbF_Unr0JFgxvuKNZ/view?usp=sharing](https://drive.google.com/file/d/1JUveiS-gIBWekzCUbF_Unr0JFgxvuKNZ/view?usp=sharing)
+<details>
+<summary>🔭 Current Projects</summary>
 
-- ⚡ Fun fact **same technology creating different Porjects**
+### 🎯 [Task Management Dashboard](https://github.com/tusharbansal19/Task-Management-Dashboard)
+> **Tech Stack:** React.js, Node.js, MongoDB, Socket.io  
+> **Features:** Real-time collaboration, drag-and-drop interface, team management  
+> **Status:** 🟢 Active Development
 
+</details>
 
- 
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tusharbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharbansal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-bansal-79aa6828b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-bansal-79aa6828b/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/tusharbansal33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tusharbansal33" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tusharbansal3366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tusharbansal3366" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/tusharbansal3366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tusharbansal3366" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tusharbansal3366/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tusharbansal3366/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@tusharbansal3366/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@tusharbansal3366/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/tusharbanrr3o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tusharbanrr3o/" height="30" width="40" /></a>
-</p>
+<details>
+<summary>🌱 Learning Journey</summary>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
-<p>&nbsp;
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&locale=en" alt="tusharbansal19" /></p> -->
+- **Advanced MERN Stack Patterns** 📚
+- **Machine Learning & AI Integration** 🤖
+- **DevOps & Cloud Architecture** ☁️
+- **Microservices Architecture** 🏗️
+
+</details>
+
+<details>
+<summary>🤝 Collaboration</summary>
+
+Looking for exciting collaborations on:
+- **Socket.io Real-time Applications** 🔄
+- **Machine Learning Projects** 🧠
+- **Open Source Contributions** 🌟
+- **Innovative Web Solutions** 💡
+
+</details>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal19&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&theme=tokyonight" alt="tusharbansal19" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbansal19&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,sass,redux" />
+
+### ⚙️ Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,cpp,c" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,docker,kubernetes" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,nginx,linux,bash" />
+
+### 🤖 AI/ML & Analytics
+<img src="https://skillicons.dev/icons?i=tensorflow,python,r,anaconda" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tusharbansal19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+## 💼 Professional Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Key Achievements
+- 🚀 **50+ Projects** completed successfully
+- 🌟 **Open Source** contributor
+- 💡 **Innovation** in full-stack development
+- 🏆 **Problem Solver** on competitive platforms
+
+</td>
+<td width="50%">
+
+### 📈 Current Stats
+- 🔥 **Streak:** Check my GitHub streak
+- 💻 **Active:** Daily coding sessions
+- 🌐 **Portfolio:** [Live Website](https://tushar-bansal-portfolio.vercel.app/)
+- 📄 **Resume:** [View CV](https://drive.google.com/file/d/1JUveiS-gIBWekzCUbF_Unr0JFgxvuKNZ/view?usp=sharing)
+
+</td>
+</tr>
+</table>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  
+### 💬 Let's Connect!
+  
+<a href="https://linkedin.com/in/tushar-bansal-79aa6828b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/tusharbansal" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:tusharbansal3366@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://tushar-bansal-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+
+### 🏅 Competitive Programming
+  
+<a href="https://leetcode.com/u/tusharbansal3366/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://codeforces.com/profile/tusharbansal3366" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<a href="https://www.codechef.com/users/tusharbansal33" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+</a>
+<a href="https://www.hackerrank.com/profile/tusharbansal3366" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/tusharbanrr3o/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksforGeeks"/>
+</a>
+<a href="https://www.hackerearth.com/@tusharbansal3366/" target="_blank">
+<img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=2EC866" alt="HackerEarth"/>
+</a>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&theme=radical" />
+</div>
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tusharbansal19/tusharbansal19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tusharbansal19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tusharbansal19?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/tusharbansal19?label=Stars&style=social" alt="GitHub Stars" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  ### 💝 Thanks for visiting! Let's build something amazing together! 
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
