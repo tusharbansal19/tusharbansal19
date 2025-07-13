@@ -172,14 +172,14 @@ const tusharBansal = {
 ### 🎨 Frontend Development
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
-### ⚙️ Backend Development  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+### ⚙️ Backend Development  & Database
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 
-### 🗄️ Database & Cloud Infrastructure
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 
 ### 🔧 Development Tools & Workflow
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
 
 ### 🤖 Emerging Technologies
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Artificial_Intelligence-4ECDC4?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
@@ -249,52 +249,7 @@ const tusharBansal = {
 
 
 
-## 🎯 Current Professional Development
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🔥 Active Projects</h3>
-        <div align="left">
-          <p>🚀 <strong>Advanced Task Management System</strong></p>
-          <p style="margin-left: 20px;">• Real-time collaboration features</p>
-          <p style="margin-left: 20px;">• Advanced analytics dashboard</p>
-          <p style="margin-left: 20px;">• Mobile-responsive design</p>
-          <br>
-          <p>🤖 <strong>AI-Powered Chat Assistant</strong></p>
-          <p style="margin-left: 20px;">• Natural language processing</p>
-          <p style="margin-left: 20px;">• Machine learning integration</p>
-          <p style="margin-left: 20px;">• Context-aware responses</p>
-          <br>
-          <p>🌐 <strong>Microservices Architecture</strong></p>
-          <p style="margin-left: 20px;">• Scalable API design</p>
-          <p style="margin-left: 20px;">• Container orchestration</p>
-          <p style="margin-left: 20px;">• Cloud-native deployment</p>
-        </div>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>📚 Learning Objectives</h3>
-        <div align="left">
-          <p>🧠 <strong>Advanced Machine Learning</strong></p>
-          <p style="margin-left: 20px;">• Deep learning algorithms</p>
-          <p style="margin-left: 20px;">• Neural network optimization</p>
-          <p style="margin-left: 20px;">• Computer vision applications</p>
-          <br>
-          <p>☁️ <strong>Cloud Architecture Mastery</strong></p>
-          <p style="margin-left: 20px;">• AWS Solutions Architecture</p>
-          <p style="margin-left: 20px;">• Serverless computing</p>
-          <p style="margin-left: 20px;">• DevOps best practices</p>
-          <br>
-          <p>🚀 <strong>Modern Development Stack</strong></p>
-          <p style="margin-left: 20px;">• GraphQL & Apollo Client</p>
-          <p style="margin-left: 20px;">• Advanced React patterns</p>
-          <p style="margin-left: 20px;">• Mobile app development</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🌐 Professional Network & Contact
 
