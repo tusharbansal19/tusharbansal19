@@ -45,22 +45,12 @@ const tusharBansal = {
 - 📚 Advanced Computer Science Concepts
 - 🏗️ Software Architecture & Design Patterns  
 - 🔬 Research in Machine Learning Applications
-- 🌐 Cloud-Native Development Practices
+- 🌐 Open Source Contributor & Networking
 
       </td>
       <td width="40%" valign="top" align="center">
 
-### 🏆 Achievement Metrics
 
-<div align="center">
-  <img src="https://img.shields.io/badge/💻%20Projects%20Completed-15+-0969DA?style=for-the-badge&labelColor=0D1117"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/🎯%20Problem%20Solving-Expert-00D084?style=for-the-badge&labelColor=0D1117"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/⚡%20Response%20Time-24hrs-FF6B35?style=for-the-badge&labelColor=0D1117"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/🌐%20Deployment-Production%20Ready-7C3AED?style=for-the-badge&labelColor=0D1117"/>
-</div>
 
 ### 🎨 Design Philosophy
 
@@ -74,12 +64,6 @@ const tusharBansal = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-## 📊 GitHub Performance Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=c3e88d&hide_border=true&custom_title=Tushar's%20GitHub%20Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal19&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&hide_border=true&custom_title=Most%20Used%20Languages" height="192px"/>
-</div>
 
 ### 📈 GitHub Activity Quadrant
 
@@ -87,12 +71,12 @@ const tusharBansal = {
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎯%20Total%20Commits-1200+-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🎯%20Total%20Commits-160+-brightgreen?style=for-the-badge&logo=git&logoColor=white"/>
         <br><br>
-        <img src="https://img.shields.io/badge/📁%20Public%20Repos-25+-blue?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/📁%20Public%20Repos-40+-blue?style=for-the-badge&logo=github&logoColor=white"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🔄%20Pull%20Requests-50+-orange?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🔄%20work%20hours-450hr+-orange?style=for-the-badge&logo=github&logoColor=white"/>
         <br><br>
         <img src="https://img.shields.io/badge/⚡%20Last%20Updated-Today-red?style=for-the-badge&logo=github-actions&logoColor=white"/>
       </td>
