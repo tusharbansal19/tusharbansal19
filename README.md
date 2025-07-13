@@ -1,5 +1,5 @@
 
-# 💫 Tushar Bansal - MERN Stack Developer & DevOps Engineer
+# 💫 Tushar Bansal - Full Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Tushar+Bansal+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;DevOps+%7C+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
