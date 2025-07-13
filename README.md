@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Tushar+Bansal+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;DevOps+%7C+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=🚀+Hey!+I'm+Tushar+Bansal+-+20+Years+Old;💻+Passionate+MERN+Stack+Developer;🤖+AI%2FML+Enthusiast+%7C+DevOps+Explorer;🌟+Building+Tomorrow's+Web+Today!" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
@@ -121,34 +115,9 @@ const tusharBansal = {
   <img src="https://github-profile-trophy.vercel.app/?username=tusharbansal19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=2" />
 </div>
 
-## 🎯 What I'm Currently Vibing With
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
-        <h3>🔥 Currently Building</h3>
-        <ul align="left">
-          <li>🚀 <strong>Task Management Pro</strong> - Real-time collaboration</li>
-          <li>🤖 <strong>AI Chat Assistant</strong> - ML-powered conversations</li>
-          <li>📱 <strong>React Native App</strong> - Mobile-first approach</li>
-          <li>🌐 <strong>Microservices API</strong> - Scalable architecture</li>
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200">
-        <h3>📚 Learning Goals 2024</h3>
-        <ul align="left">
-          <li>🧠 <strong>Advanced ML Algorithms</strong> - Deep learning</li>
-          <li>☁️ <strong>AWS Solutions Architecture</strong> - Cloud mastery</li>
-          <li>🚀 <strong>GraphQL & Apollo</strong> - Modern APIs</li>
-          <li>📱 <strong>React Native Animations</strong> - Smooth UX</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+
+
 
 ## 🌐 Let's Connect & Build Together!
 
