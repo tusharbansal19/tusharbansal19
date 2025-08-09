@@ -296,7 +296,7 @@ const tusharBansal = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 📈 Profile Analytics
+## 📈 Profile Analytic
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tusharbansal19&label=Profile%20Views&color=70a5fd&style=for-the-badge" alt="Profile Views" />
