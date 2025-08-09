@@ -44,8 +44,8 @@ const tusharBansal = {
 **Academic & Professional Development:**
 - 📚 Advanced Computer Science Concepts
 - 🏗️ Software Architecture & Design Patterns  
-- 🔬 Research in Machine Learning Applications
-- 🌐 Open Source Contributor & Networking
+- 🔬 Research in Machine Learning Applications,
+- 🌐 Open Source Contributor & Networking.
 
       </td>
       <td width="40%" valign="top" align="center">
