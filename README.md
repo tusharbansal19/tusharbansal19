@@ -38,8 +38,7 @@ I'm a **passionate Full Stack Developer** and **Computer Science student** with 
 - 🔬 Research in Machine Learning Applications,
 - 🌐 Open Source Contributor & Networking.
 
-      </td>
-      <td width="40%" valign="top" align="center">
+     
 
 
 
