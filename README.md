@@ -14,9 +14,7 @@
 ## 🎯 Professional Overview
 
 <div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td width="60%" valign="top">
+  
 
 ### 👨‍💻 About Me
 
@@ -41,14 +39,6 @@ I'm a **passionate Full Stack Developer** and **Computer Science student** with 
      
 
 
-
-### 🎨 Design Philosophy
-
-*"Great software is invisible to the user but unmistakable in its quality"*
-
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
