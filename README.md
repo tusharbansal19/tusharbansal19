@@ -28,16 +28,7 @@ I'm a **passionate Full Stack Developer** and **Computer Science student** with 
 - 💡 **Impact**: Building applications that make a real difference in people's lives
 - 📈 **Growth**: Committed to continuous learning and professional development
 
-### 🌟 Core Values
 
-```typescript
-const tusharBansal = {
-  mindset: "Growth-oriented & Solution-focused",
-  approach: "User-first design with robust architecture",  
-  philosophy: "Clean code is not just functional, it's beautiful",
-  commitment: "Delivering excellence in every project"
-};
-```
 
 ### 🎓 Current Focus Areas
 
