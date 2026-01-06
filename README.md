@@ -16,7 +16,7 @@
 <div align="">
   
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me..
 
 I'm a **passionate Full Stack Developer** and **Computer Science student** with a deep love for creating scalable, user-centric digital solutions. At 20, I've already built a strong foundation in modern web technologies and am constantly pushing the boundaries of what's possible with code.
 
