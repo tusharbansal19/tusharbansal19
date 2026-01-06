@@ -13,7 +13,7 @@
 
 ## 🎯 Professional Overview
 
-<div align="center">
+<div align="">
   
 
 ### 👨‍💻 About Me
