@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</p>
 
 # 💫 Tushar Bansal - Full Stack Developer
 
@@ -6,9 +9,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</p>
 
 
 ## 🎯 Professional Overview
