@@ -98,67 +98,6 @@ const tusharBansal = {
 
 
 
-## 🌐 Let's Connect & Build Together!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
-  
-  ### 💬 Hit me up for collaborations!
-  
-  <a href="https://tushar-bansal-portfolio.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/tushar-bansal-79aa6828b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/tusharbansal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:tusharbansal3366@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-  ### 🏅 Coding Battlegrounds
-  
-  <a href="https://leetcode.com/u/tusharbansal3366/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/tusharbansal3366" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.codechef.com/users/tusharbansal33" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/tusharbansal3366" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/tusharbanrr3o/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.hackerearth.com/@tusharbansal3366/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=2EC866" alt="HackerEarth"/>
-  </a>
-
-</div>
-
-## 🎨 Random Developer Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=1a1b27" />
-</div>
-
-## 🐍 Watch My Contributions Come Alive!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tusharbansal19/tusharbansal19/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusharbansal19/tusharbansal19/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tusharbansal19/tusharbansal19/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
-
 
 ## 🛠️ Technical Expertise & Professional Skills
 
