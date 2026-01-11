@@ -34,7 +34,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 
 
 
-### 🛠️ Technical Skills 
+## 🛠️ Technical Skills 
 
 ⚛ React    ▲ Next.js    🟨 JavaScript    🔷 TypeScript
 🟢 Node.js ⚡ Express   🔌 Socket.IO     🌐 REST APIs
