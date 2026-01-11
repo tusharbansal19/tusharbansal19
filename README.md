@@ -43,14 +43,6 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 🍃 MongoDB 🐬 MySQL
 🧠 DSA     🏗 System Design
 🔧 Git     🐙 GitHub    🐳 Docker
-| Category | Skills |
-|--------|--------|
-| 💻 Frontend | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
-| 🧠 Backend | Node.js, Express.js, FastAPI, REST APIs, Socket.IO, WebSockets |
-| 🗄️ Databases | MongoDB, PostgreSQL, MySQL |
-| ⚙️ Tools & Workflow | Git, GitHub, Docker, Postman, VS Code |
-| 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
-| ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
 
  ** Frontend **
 
@@ -68,6 +60,15 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
+
+| Category | Skills |
+|--------|--------|
+| 💻 Frontend | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
+| 🧠 Backend | Node.js, Express.js, FastAPI, REST APIs, Socket.IO, WebSockets |
+| 🗄️ Databases | MongoDB, PostgreSQL, MySQL |
+| ⚙️ Tools & Workflow | Git, GitHub, Docker, Postman, VS Code |
+| 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
+| ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
 
 ## 📊 GitHub Analytics
 
