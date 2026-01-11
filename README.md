@@ -42,10 +42,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 🧠 DSA     🏗 System Design
 🔧 Git     🐙 GitHub    🐳 Docker
 
-### 🚀 Skills & Technologies
-🚀 Skills & Technologies
-
-Frontend
+# Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
 
