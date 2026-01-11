@@ -73,6 +73,59 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 | ⚙️ Tools & Workflow | Git, GitHub, Docker, Postman, VS Code |
 | 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
 | ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
+<table>
+  <tr>
+    <!-- SaatPherasWorld -->
+    <td align="left" width="33%">
+      <h3 align="center">💍 SaatPherasWorld</h3>
+      <ul>
+        <li>Architected <b>real-time communication</b> using <b>WebSockets / Socket.IO</b> with an <b>event-driven architecture</b></li>
+        <li>Integrated <b>push notifications</b> and <b>email verification</b> systems</li>
+        <li>Implemented <b>secure token-based authentication</b> (access/refresh lifecycle, HTTP-only cookies)</li>
+        <li>Built <b>advanced user management</b> (block/unblock, authorization, permission handling)</li>
+        <li>Enhanced UI layout achieving <b>95+ Lighthouse performance score</b></li>
+      </ul>
+      <p align="center">
+        🔗 <a href="https://saatpherasworldwide.com/">Live</a>
+      </p>
+    </td>
+
+    <!-- FastFinger -->
+    <td align="left" width="33%">
+      <h3 align="center">⌨️ FastFinger</h3>
+      <ul>
+        <li>Built a <b>real-time multiplayer typing platform</b> using <b>MERN + WebSockets</b></li>
+        <li>Maintained <b>synchronized timers</b>, instant updates, and live leaderboards</li>
+        <li>Designed a <b>PWA-ready responsive UI</b> with WPM tracking & error highlighting</li>
+        <li>Improved accessibility by <b>~40%</b></li>
+        <li>Engineered high-concurrency WebSocket system with <b>Speed Index ≈ 1.0s</b></li>
+      </ul>
+      <p align="center">
+        🔗 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
+        &nbsp; | &nbsp;
+        📂 <a href="https://github.com/tusharbansal19/Typing-webApp">Code</a>
+      </p>
+    </td>
+
+    <!-- Tushar Automobiles -->
+    <td align="left" width="33%">
+      <h3 align="center">🚗 Tushar Automobiles</h3>
+      <ul>
+        <li>SEO-optimized, high-performance <b>e-commerce platform</b> using <b>Next.js, Prisma ORM & Redux</b></li>
+        <li>Implemented <b>advanced search, filters & auto-suggestions</b>, improving discovery by <b>~45%</b></li>
+        <li>Developed catalogs, dashboards, order management & secure contact forms</li>
+        <li>Integrated <b>reCAPTCHA</b>, notifications & real-time inventory updates</li>
+        <li>Applied SEO & performance optimizations achieving <b>92+ Lighthouse score</b></li>
+      </ul>
+      <p align="center">
+        🔗 <a href="https://automobiles-next.onrender.com">Live</a>
+        &nbsp; | &nbsp;
+        📂 <a href="https://github.com/tusharbansal19/automobiles-next">Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 🏅 Competitive Programming
