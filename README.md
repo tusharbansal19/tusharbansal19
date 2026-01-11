@@ -35,6 +35,10 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 ✨ 𝐀𝐥𝐰𝐚𝐲𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. 𝐀𝐥𝐰𝐚𝐲𝐬 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠. 𝐀𝐥𝐰𝐚𝐲𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠.
 
 
+## 📊 GitHub Analytics
+
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbansal19&theme=tokyo-night&hide_border=true" width="95%"/> </p> 
 
 ## 🛠️ Technical Skills 
 
@@ -70,10 +74,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 | 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
 | ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
 
-## 📊 GitHub Analytics
 
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbansal19&theme=tokyo-night&hide_border=true" width="95%"/> </p>
 🏅 Competitive Programming
 <p align="center"> <a href="https://leetcode.com/u/tusharbansal3366/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/></a> <a href="https://codeforces.com/profile/tusharbansal3366"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/></a> <a href="https://www.codechef.com/users/tusharbansal33"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a> </p>
 🌐 Connect With Me
