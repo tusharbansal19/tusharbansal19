@@ -78,21 +78,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 
 <table>
   <tr>
-    <td align="left" width="33%">
-      <h3 align="center">💍 SaatPheras</h3>
-      <ul>
-        <li>🔴 Real-time chat using <b>WebSockets / Socket.IO</b></li>
-        <li>🔔 Push notifications & email verification</li>
-        <li>🔐 Secure JWT auth (access/refresh, HTTP-only cookies)</li>
-        <li>🚫 Block/Unblock users & role-based authorization</li>
-        <li>⚡ UI optimization with <b>95+ Lighthouse score</b></li>
-      </ul>
-      <p align="center">
-        🌐 <a href="https://saatpherasworldwide.com/">Live</a>
-      </p>
-    </td>
-
-    <td align="left" width="33%">
+       <td align="left" width="33%">
       <h3 align="center">⌨️ FastFinger</h3>
       <ul>
         <li>⚡ Real-time multiplayer typing app (MERN)</li>
@@ -107,6 +93,21 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
         📂 <a href="https://github.com/tusharbansal19/Typing-webApp">Code</a>
       </p>
     </td>
+    <td align="left" width="33%">
+      <h3 align="center">💍 SaatPheras</h3>
+      <ul>
+        <li>🔴 Real-time chat using <b>WebSockets / Socket.IO</b></li>
+        <li>🔔 Push notifications & email verification</li>
+        <li>🔐 Secure JWT auth (access/refresh, HTTP-only cookies)</li>
+        <li>🚫 Block/Unblock users & role-based authorization</li>
+        <li>⚡ UI optimization with <b>95+ Lighthouse score</b></li>
+      </ul>
+      <p align="center">
+        🌐 <a href="https://saatpherasworldwide.com/">Live</a>
+      </p>
+    </td>
+
+
 
     
   </tr>
