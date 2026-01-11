@@ -1,34 +1,27 @@
 👋 Tushar Bansal — Software Engineer
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=A9FEF7&center=true&vCenter=true&width=900&lines=Passionate+Software+Engineer;Full+Stack+Developer+(MERN+%2F+Next.js);Building+Scalable+and+Real-Time+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" /> </p>
-👨‍💻 Professional Summary
 
-🌟 Passionate Software Engineer | Computer Science Undergraduate 🌟
 
-I am a driven Software Engineer with a deep passion for crafting scalable, high-performance, production-grade web applications. I thrive at the intersection of clean UI design and robust backend architecture, building systems that are not only functional but future-ready.
+🌟 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 🌟
 
-From designing intuitive user experiences to engineering secure, real-time, and scalable backend systems, I enjoy working end-to-end across the full stack. My foundation is strongly rooted in Data Structures, System Design, and modern web technologies, enabling me to solve complex problems with clarity and efficiency.
+I am a 𝐝𝐫𝐢𝐯𝐞𝐧 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with a deep passion for crafting 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞, 𝐡𝐢𝐠𝐡-𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞, 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐠𝐫𝐚𝐝𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
 
-🚀 Core Strengths
+From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 to engineering 𝐬𝐞𝐜𝐮𝐫𝐞, 𝐫𝐞𝐚𝐥-𝐭𝐢𝐦𝐞, and 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 𝐬𝐲𝐬𝐭𝐞𝐦𝐬, I enjoy working 𝐞𝐧𝐝-𝐭𝐨-𝐞𝐧𝐝 across the 𝐟𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤.
 
-⚙️ Scalable Full-Stack Application Development
+🚀 𝐂𝐨𝐫𝐞 𝐒𝐭𝐫𝐞𝐧𝐠𝐭𝐡𝐬
+⚙️ 𝐒𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
+🔄 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (WebSockets / Socket.IO)
+🧩 𝐂𝐥𝐞𝐚𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 & 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧
+🧠 𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐒𝐨𝐥𝐯𝐢𝐧𝐠 & 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
 
-🔄 Real-Time Systems (WebSockets / Socket.IO)
+🎯 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
+💻 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 (MERN / Next.js)
+🏗️ 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
+⚡ 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 & 𝐇𝐢𝐠𝐡-𝐂𝐨𝐧𝐜𝐮𝐫𝐫𝐞𝐧𝐜𝐲 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
+📈 𝐃𝐒𝐀 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬
+🌍 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧
 
-🧩 Clean Architecture & Performance Optimization
-
-🧠 Strong Problem-Solving & Competitive Programming mindset
-
-🎯 Current Focus
-
-💻 Advanced Full-Stack Development (MERN / Next.js)
-
-🏗️ System Design & Backend Architecture
-
-⚡ Real-Time & High-Concurrency Applications
-
-📈 Strengthening DSA for Technical Interviews
-
-🌍 Open-Source Learning & Collaboration
+✨ 𝐀𝐥𝐰𝐚𝐲𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. 𝐀𝐥𝐰𝐚𝐲𝐬 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠. 𝐀𝐥𝐰𝐚𝐲𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠.
 🛠️ Technical Skills
 Frontend
 
