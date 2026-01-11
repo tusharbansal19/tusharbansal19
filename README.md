@@ -74,54 +74,51 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 | 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
 | ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
 
+## Main Projects:
+
 <table>
   <tr>
-    <!-- SaatPherasWorld -->
     <td align="left" width="33%">
-      <h3 align="center">💍 SaatPherasWorld</h3>
+      <h3 align="center">💍 SaatPheras</h3>
       <ul>
-        <li>Architected <b>real-time communication</b> using <b>WebSockets / Socket.IO</b> with an <b>event-driven architecture</b></li>
-        <li>Integrated <b>push notifications</b> and <b>email verification</b> systems</li>
-        <li>Implemented <b>secure token-based authentication</b> (access/refresh lifecycle, HTTP-only cookies)</li>
-        <li>Built <b>advanced user management</b> (block/unblock, authorization, permission handling)</li>
-        <li>Enhanced UI layout achieving <b>95+ Lighthouse performance score</b></li>
+        <li>🔴 Real-time chat using <b>WebSockets / Socket.IO</b></li>
+        <li>🔔 Push notifications & email verification</li>
+        <li>🔐 Secure JWT auth (access/refresh, HTTP-only cookies)</li>
+        <li>🚫 Block/Unblock users & role-based authorization</li>
+        <li>⚡ UI optimization with <b>95+ Lighthouse score</b></li>
       </ul>
       <p align="center">
-        🔗 <a href="https://saatpherasworldwide.com/">Live</a>
+        🌐 <a href="https://saatpherasworldwide.com/">Live</a>
       </p>
     </td>
 
-    <!-- FastFinger -->
     <td align="left" width="33%">
       <h3 align="center">⌨️ FastFinger</h3>
       <ul>
-        <li>Built a <b>real-time multiplayer typing platform</b> using <b>MERN + WebSockets</b></li>
-        <li>Maintained <b>synchronized timers</b>, instant updates, and live leaderboards</li>
-        <li>Designed a <b>PWA-ready responsive UI</b> with WPM tracking & error highlighting</li>
-        <li>Improved accessibility by <b>~40%</b></li>
-        <li>Engineered high-concurrency WebSocket system with <b>Speed Index ≈ 1.0s</b></li>
+        <li>⚡ Real-time multiplayer typing app (MERN)</li>
+        <li>⏱️ Synchronized timers & live leaderboards</li>
+        <li>📊 WPM tracking, error analysis & analytics</li>
+        <li>📱 PWA-ready responsive UI</li>
+        <li>🚀 High-concurrency WebSockets (Speed Index ~1.0s)</li>
       </ul>
       <p align="center">
-        🔗 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
+        🌐 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
         &nbsp; | &nbsp;
         📂 <a href="https://github.com/tusharbansal19/Typing-webApp">Code</a>
       </p>
     </td>
 
-    <!-- Tushar Automobiles -->
     <td align="left" width="33%">
-      <h3 align="center">🚗 Tushar Automobiles</h3>
+      <h3 align="center">📊 UMEE Dashboard</h3>
       <ul>
-        <li>SEO-optimized, high-performance <b>e-commerce platform</b> using <b>Next.js, Prisma ORM & Redux</b></li>
-        <li>Implemented <b>advanced search, filters & auto-suggestions</b>, improving discovery by <b>~45%</b></li>
-        <li>Developed catalogs, dashboards, order management & secure contact forms</li>
-        <li>Integrated <b>reCAPTCHA</b>, notifications & real-time inventory updates</li>
-        <li>Applied SEO & performance optimizations achieving <b>92+ Lighthouse score</b></li>
+        <li>📈 Production-grade analytics dashboard</li>
+        <li>⚙️ FastAPI backend handling <b>100k+ records</b></li>
+        <li>🔍 Advanced filtering, sorting & pagination</li>
+        <li>🧱 Clean modular backend architecture</li>
+        <li>⚡ Optimized APIs for fast response times</li>
       </ul>
       <p align="center">
-        🔗 <a href="https://automobiles-next.onrender.com">Live</a>
-        &nbsp; | &nbsp;
-        📂 <a href="https://github.com/tusharbansal19/automobiles-next">Code</a>
+        📂 <a href="#">Code</a>
       </p>
     </td>
   </tr>
@@ -130,11 +127,15 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 
 
 
-🏅 Competitive Programming
+## 🏅 Competitive Programming 
+
 <p align="center"> <a href="https://leetcode.com/u/tusharbansal3366/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/></a> <a href="https://codeforces.com/profile/tusharbansal3366"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/></a> <a href="https://www.codechef.com/users/tusharbansal33"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a> </p>
-🌐 Connect With Me
+
+## 🌐 Connect With Me
+
 <p align="center"> <a href="https://tushar-bansal-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge"/></a> <a href="https://linkedin.com/in/tushar-bansal-79aa6828b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a> <a href="mailto:tusharbansal3366@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/></a> </p>
-💡 Engineering Philosophy
+
+## 💡 Engineering Philosophy
 
 “Write code that scales, reads well, and solves real problems.”
 
