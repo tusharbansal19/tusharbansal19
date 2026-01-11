@@ -30,7 +30,48 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 🌍 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧
 
 ✨ 𝐀𝐥𝐰𝐚𝐲𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. 𝐀𝐥𝐰𝐚𝐲𝐬 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠. 𝐀𝐥𝐰𝐚𝐲𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠.
-🛠️ Technical Skills
+
+
+
+***🛠️ Technical Skills ***
+⚛ React    ▲ Next.js    🟨 JavaScript    🔷 TypeScript
+🟢 Node.js ⚡ Express   🔌 Socket.IO     🌐 REST APIs
+🍃 MongoDB 🐬 MySQL
+🧠 DSA     🏗 System Design
+🔧 Git     🐙 GitHub    🐳 Docker
+
+### 🚀 Skills & Technologies
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+#### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+#### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+#### 🧩 Core CS
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge)
+
 Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
