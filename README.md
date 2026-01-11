@@ -62,6 +62,17 @@ Backend
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
 
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+
+
 🚀 Key Projects
 💍 SaatPherasWorldwide — Matrimonial Platform (Internship Project)
 
