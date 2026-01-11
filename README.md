@@ -63,14 +63,13 @@ Backend
 <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
 
 ## 📊 GitHub Analytics
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal19&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tusharbansal19&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharbansal19&theme=tokyo-night&hide_border=true)
 
 
 🚀 Key Projects
