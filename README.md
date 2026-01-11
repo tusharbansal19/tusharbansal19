@@ -1,14 +1,7 @@
 👋 Tushar Bansal — Software Engineer
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=A9FEF7&center=true&vCenter=true&width=900&lines=Passionate+Software+Engineer;Full+Stack+Developer+(MERN+%2F+Next.js);Building+Scalable+and+Real-Time+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" /> </p>
 
-| Category | Skills |
-|--------|--------|
-| 💻 Frontend | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
-| 🧠 Backend | Node.js, Express.js, FastAPI, REST APIs, Socket.IO, WebSockets |
-| 🗄️ Databases | MongoDB, PostgreSQL, MySQL |
-| ⚙️ Tools & Workflow | Git, GitHub, Docker, Postman, VS Code |
-| 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
-| ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
+
 
 ## **🌟 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 🌟**
 
@@ -50,6 +43,14 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 🍃 MongoDB 🐬 MySQL
 🧠 DSA     🏗 System Design
 🔧 Git     🐙 GitHub    🐳 Docker
+| Category | Skills |
+|--------|--------|
+| 💻 Frontend | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
+| 🧠 Backend | Node.js, Express.js, FastAPI, REST APIs, Socket.IO, WebSockets |
+| 🗄️ Databases | MongoDB, PostgreSQL, MySQL |
+| ⚙️ Tools & Workflow | Git, GitHub, Docker, Postman, VS Code |
+| 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
+| ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
 
  ** Frontend **
 
