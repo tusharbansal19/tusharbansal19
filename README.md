@@ -106,6 +106,21 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
         🌐 <a href="https://saatpherasworldwide.com/">Live</a>
       </p>
     </td>
+        <td align="left" width="33%">
+      <h3 align="center">⌨️ FastFinger</h3>
+      <ul>
+        <li>⚡ Real-time multiplayer typing app (MERN)</li>
+        <li>⏱️ Synchronized timers & live leaderboards</li>
+        <li>📊 WPM tracking, error analysis & analytics</li>
+        <li>📱 PWA-ready responsive UI</li>
+        <li>🚀 High-concurrency WebSockets (Speed Index ~1.0s)</li>
+      </ul>
+      <p align="center">
+        🌐 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
+        &nbsp; | &nbsp;
+        📂 <a href="https://github.com/tusharbansal19/Typing-webApp">Code</a>
+      </p>
+    </td>
 
 
 
