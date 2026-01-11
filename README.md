@@ -1,5 +1,10 @@
-👋 Tushar Bansal — Software Engineer
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=A9FEF7&center=true&vCenter=true&width=900&lines=Passionate+Software+Engineer;Full+Stack+Developer+(MERN+%2F+Next.js);Building+Scalable+and+Real-Time+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" /> </p>
+*** 👋 Tushar Bansal — Software Engineer ***
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/> </p> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=900&lines=Passionate+Software+Engineer;Full+Stack+Developer+(MERN+%2F+Next.js);Building+Scalable+and+Real-Time+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" />
+</p>
+
 
 
 
