@@ -45,7 +45,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbansal19&theme=tokyo-night&hide_border=true" width="95%"/> </p> 
 
-## 🛠️ Technical Skills 
+## 🚀  Technical Skills 
 
 ⚛ React    ▲ Next.js    🟨 JavaScript    🔷 TypeScript
 🟢 Node.js ⚡ Express   🔌 Socket.IO     🌐 REST APIs
@@ -61,36 +61,36 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 
-🗄️ Databases
+ Databases
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
-⚙️ Tools & 🧩 Core Computer Science
+ Tools &  Core Computer Science
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
 
 | Category | Skills |
 |--------|--------|
-| 💻 Frontend | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
-| 🧠 Backend | Node.js, Express.js, FastAPI, REST APIs, Socket.IO, WebSockets |
-| 🗄️ Databases | MongoDB, PostgreSQL, MySQL |
-| ⚙️ Tools & Workflow | Git, GitHub, Docker, Postman, VS Code |
-| 🧩 Core CS | Data Structures & Algorithms, System Design, OOP |
-| ⚡ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
+|   ▲ Frontend | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Redux |
+|  ▲ Backend | Node.js, Express.js, FastAPI, REST APIs, Socket.IO, WebSockets |
+|  ▲ Databases | MongoDB, PostgreSQL, MySQL |
+|  ▲ Tools & Workflow | Git, GitHub, Docker, Postman, VS Code |
+|  ▲ Core CS | Data Structures & Algorithms, System Design, OOP |
+|  ▲ Key Concepts | Real-Time Systems, High-Concurrency Apps, Performance Optimization |
 
-## Main Projects:
+## 🚀  Main Projects:
 
 <table>
   <tr>
        <td align="left" width="33%">
       <h3 align="center">⌨️ FastFinger</h3>
       <ul>
-        <li>⚡ Real-time multiplayer typing app (MERN)</li>
-        <li>⏱️ Synchronized timers & live leaderboards</li>
-        <li>📊 WPM tracking, error analysis & analytics</li>
-        <li>📱 PWA-ready responsive UI</li>
-        <li>🚀 High-concurrency WebSockets (Speed Index ~1.0s)</li>
+        <li> ▲ Real-time multiplayer typing app (MERN)</li>
+        <li> ▲ Synchronized timers & live leaderboards</li>
+        <li> ▲ WPM tracking, error analysis & analytics</li>
+        <li> ▲ PWA-ready responsive UI</li>
+        <li> ▲ High-concurrency WebSockets (Speed Index ~1.0s)</li>
       </ul>
       <p align="center">
         🌐 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
