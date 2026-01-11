@@ -86,11 +86,11 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
        <td align="left" width="33%">
       <h3 align="center">⌨️ FastFinger</h3>
       <ul>
-        <li> ▲ Real-time multiplayer typing app (MERN)</li>
-        <li> ▲ Synchronized timers & live leaderboards</li>
-        <li> ▲ WPM tracking, error analysis & analytics</li>
-        <li> ▲ PWA-ready responsive UI</li>
-        <li> ▲ High-concurrency WebSockets (Speed Index ~1.0s)</li>
+        <li>  Real-time multiplayer typing app (MERN)</li>
+        <li>  Synchronized timers & live leaderboards</li>
+        <li>  WPM tracking, error analysis & analytics</li>
+        <li>  PWA-ready responsive UI</li>
+        <li>  High-concurrency WebSockets (Speed Index ~1.0s)</li>
       </ul>
       <p align="center">
         🌐 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
@@ -101,11 +101,11 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
     <td align="left" width="33%">
       <h3 align="center">💍 SaatPheras</h3>
       <ul>
-        <li>🔴 Real-time chat using <b>WebSockets / Socket.IO</b></li>
-        <li>🔔 Push notifications & email verification</li>
-        <li>🔐 Secure JWT auth (access/refresh, HTTP-only cookies)</li>
-        <li>🚫 Block/Unblock users & role-based authorization</li>
-        <li>⚡ UI optimization with <b>95+ Lighthouse score</b></li>
+        <li> Real-time chat using <b>WebSockets / Socket.IO</b></li>
+        <li> Push notifications & email verification</li>
+        <li> Secure JWT auth (access/refresh, HTTP-only cookies)</li>
+        <li> Block/Unblock users & role-based authorization</li>
+        <li> UI optimization with <b>95+ Lighthouse score</b></li>
       </ul>
       <p align="center">
         🌐 <a href="https://saatpherasworldwide.com/">Live</a>
@@ -114,11 +114,11 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
         <td align="left" width="33%">
       <h3 align="center">⌨️ FastFinger</h3>
       <ul>
-        <li>⚡ Real-time multiplayer typing app (MERN)</li>
-        <li>⏱️ Synchronized timers & live leaderboards</li>
-        <li>📊 WPM tracking, error analysis & analytics</li>
-        <li>📱 PWA-ready responsive UI</li>
-        <li>🚀 High-concurrency WebSockets (Speed Index ~1.0s)</li>
+        <li> Real-time multiplayer typing app (MERN)</li>
+        <li> Synchronized timers & live leaderboards</li>
+        <li> WPM tracking, error analysis & analytics</li>
+        <li> PWA-ready responsive UI</li>
+        <li> High-concurrency WebSockets (Speed Index ~1.0s)</li>
       </ul>
       <p align="center">
         🌐 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
@@ -136,15 +136,15 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 
 
 
-## 🏅 Competitive Programming 
+## 🚀  Competitive Programming 
 
 <p align="center"> <a href="https://leetcode.com/u/tusharbansal3366/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/></a> <a href="https://codeforces.com/profile/tusharbansal3366"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/></a> <a href="https://www.codechef.com/users/tusharbansal33"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a> </p>
 
-## 🌐 Connect With Me
+## 🚀  Connect With Me
 
 <p align="center"> <a href="https://tushar-bansal-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge"/></a> <a href="https://linkedin.com/in/tushar-bansal-79aa6828b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a> <a href="mailto:tusharbansal3366@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/></a> </p>
 
-## 💡 Engineering Philosophy
+## 🚀  Engineering Philosophy
 
 “Write code that scales, reads well, and solves real problems.”
 
