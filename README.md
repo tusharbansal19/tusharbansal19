@@ -2,32 +2,33 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=A9FEF7&center=true&vCenter=true&width=900&lines=Passionate+Software+Engineer;Full+Stack+Developer+(MERN+%2F+Next.js);Building+Scalable+and+Real-Time+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" /> </p>
 👨‍💻 Professional Summary
 
-I am a passionate Software Engineer and Computer Science undergraduate focused on building scalable, high-performance, production-grade web applications.
+🌟 Passionate Software Engineer | Computer Science Undergraduate 🌟
 
-I enjoy working across the full stack — from designing clean UIs to architecting secure, real-time backend systems — with a strong foundation in Data Structures, System Design, and modern web technologies.
+I am a driven Software Engineer with a deep passion for crafting scalable, high-performance, production-grade web applications. I thrive at the intersection of clean UI design and robust backend architecture, building systems that are not only functional but future-ready.
 
-Core strengths:
+From designing intuitive user experiences to engineering secure, real-time, and scalable backend systems, I enjoy working end-to-end across the full stack. My foundation is strongly rooted in Data Structures, System Design, and modern web technologies, enabling me to solve complex problems with clarity and efficiency.
 
-Scalable full-stack development
+🚀 Core Strengths
 
-Real-time systems (WebSockets / Socket.IO)
+⚙️ Scalable Full-Stack Application Development
 
-Clean architecture & performance optimization
+🔄 Real-Time Systems (WebSockets / Socket.IO)
 
-Problem solving and competitive programming
+🧩 Clean Architecture & Performance Optimization
+
+🧠 Strong Problem-Solving & Competitive Programming mindset
 
 🎯 Current Focus
 
-Advanced Full-Stack Development (MERN / Next.js)
+💻 Advanced Full-Stack Development (MERN / Next.js)
 
-System Design & Backend Architecture
+🏗️ System Design & Backend Architecture
 
-Real-time & high-concurrency applications
+⚡ Real-Time & High-Concurrency Applications
 
-Strengthening DSA for interviews
+📈 Strengthening DSA for Technical Interviews
 
-Open-source learning & collaboration
-
+🌍 Open-Source Learning & Collaboration
 🛠️ Technical Skills
 Frontend
 
