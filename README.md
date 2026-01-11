@@ -108,19 +108,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
       </p>
     </td>
 
-    <td align="left" width="33%">
-      <h3 align="center">📊 UMEE Dashboard</h3>
-      <ul>
-        <li>📈 Production-grade analytics dashboard</li>
-        <li>⚙️ FastAPI backend handling <b>100k+ records</b></li>
-        <li>🔍 Advanced filtering, sorting & pagination</li>
-        <li>🧱 Clean modular backend architecture</li>
-        <li>⚡ Optimized APIs for fast response times</li>
-      </ul>
-      <p align="center">
-        📂 <a href="#">Code</a>
-      </p>
-    </td>
+    
   </tr>
 </table>
 
