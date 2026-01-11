@@ -63,47 +63,8 @@ Backend
 <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal19&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tusharbansal19&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharbansal19&theme=tokyo-night&hide_border=true)
 
 
-🚀 Key Projects
-💍 SaatPherasWorldwide — Matrimonial Platform (Internship Project)
-
-Tech: React, Node.js, MongoDB, Socket.IO
-
-Real-time chat & notifications
-
-Secure JWT-based authentication
-
-Scalable user management & permissions
-🔗 https://saatpherasworldwide.com
-
-⚡ FastFinger — Real-Time Typing App
-
-Tech: MERN, WebSockets
-
-Multiplayer real-time typing battles
-
-Accurate WPM tracking & analytics
-
-High-concurrency architecture
-
-🏪 Automobile Web App
-
-Tech: Next.js, Tailwind CSS
-
-Responsive UI & advanced filtering
-
-Optimized performance & SEO
-🔗 https://automobiles-next.onrender.com/cars
-
-📈 GitHub Activity
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharbansal19&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharbansal19&theme=tokyo-night&hide_border=true" width="95%"/> </p>
 🏅 Competitive Programming
 <p align="center"> <a href="https://leetcode.com/u/tusharbansal3366/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge"/></a> <a href="https://codeforces.com/profile/tusharbansal3366"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/></a> <a href="https://www.codechef.com/users/tusharbansal33"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a> </p>
