@@ -95,7 +95,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
 <table>
   <tr>
        <td align="left" width="33%">
-      <h3 align="center">⌨️ FastFinger</h3>
+      <h3 align="center"> FastFinger</h3>
       <ul>
         <li>  Real-time multiplayer typing app (MERN)</li>
         <li>  Synchronized timers & live leaderboards</li>
@@ -110,7 +110,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
       </p>
     </td>
     <td align="left" width="33%">
-      <h3 align="center">💍 SaatPheras</h3>
+      <h3 align="center">SaatPheras</h3>
       <ul>
         <li> Real-time chat using <b>WebSockets / Socket.IO</b></li>
         <li> Push notifications & email verification</li>
@@ -122,21 +122,22 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
         🌐 <a href="https://saatpherasworldwide.com/">Live</a>
       </p>
     </td>
-        <td align="left" width="33%">
-      <h3 align="center">⌨️ FastFinger</h3>
-      <ul>
-        <li> Real-time multiplayer typing app (MERN)</li>
-        <li> Synchronized timers & live leaderboards</li>
-        <li> WPM tracking, error analysis & analytics</li>
-        <li> PWA-ready responsive UI</li>
-        <li> High-concurrency WebSockets (Speed Index ~1.0s)</li>
-      </ul>
-      <p align="center">
-        🌐 <a href="https://typing-webapp-frountend.onrender.com">Live</a>
-        &nbsp; | &nbsp;
-        📂 <a href="https://github.com/tusharbansal19/Typing-webApp">Code</a>
-      </p>
-    </td>
+        
+<td align="left" width="33%">
+  <h3 align="center">Scratch</h3>
+  <ul>
+    <li>Real-time collaborative whiteboard application</li>
+    <li>Infinite canvas with live multi-user sync</li>
+    <li>Draw, write, and visualize ideas instantly</li>
+    <li>Minimal, distraction-free UI for teams</li>
+    <li>Low-latency WebSocket-based architecture</li>
+  </ul>
+  <p align="center">
+    🌐 <a href="https://tusharkascratch.netlify.app/">Live</a>
+    &nbsp; | &nbsp;
+    📂 <a href="https://github.com/tusharbansal19/scratch">Code</a>
+  </p>
+</td>
 
 
 
