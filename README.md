@@ -52,6 +52,10 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
   />
 </p>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
 ## 🚀  Technical Skills 
 
 ⚛ React    ▲ Next.js    🟨 JavaScript    🔷 TypeScript
