@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=900&lines=Passionate+Software+Engineer;Full+Stack+Developer+(MERN+%2F+Next.js);Building+Scalable+and+Real-Time+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=tusharbansal19&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharbansal19&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal19&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 
