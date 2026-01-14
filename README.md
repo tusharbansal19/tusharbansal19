@@ -130,7 +130,7 @@ From designing 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐮𝐬𝐞𝐫 𝐞𝐱�
     <li>Infinite canvas with live multi-user sync</li>
     <li>Draw, write, and visualize ideas instantly</li>
     <li>Minimal, distraction-free UI for teams</li>
-    <li>Low-latency WebSocket-based architecture</li>
+    <li>Low-latency WebSocket-based architecture.</li>
   </ul>
   <p align="center">
     🌐 <a href="https://tusharkascratch.netlify.app/">Live</a>
