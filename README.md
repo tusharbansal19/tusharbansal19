@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=900&lines=Passionate+Software+Engineer;Full+Stack+Developer+(MERN+%2F+Next.js);Building+Scalable+and+Real-Time+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" />
 </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbansal19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
